@@ -38,7 +38,6 @@ pip install -r requirements.txt
 huggingface-cli login
 ```
 
-Then enable gated model access [here](https://huggingface.co/meta-llama/Llama-3-8B).
 
 ---
 
