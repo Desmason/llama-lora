@@ -9,7 +9,7 @@ This project demonstrates how to fine-tune the LLaMA 1B model using **Low-Rank A
 
 ```
 ├── lora_finetuning.py              # Fine-tunes LLaMA-1B with LoRA
-├── eval.py  # Evaluates base vs fine-tuned model
+├── eval.py                         # Evaluates base vs fine-tuned model
 ├── lora-adapter/                   # Output folder for LoRA adapter weights
 ├── requirements.txt                # Python dependencies
 └── README.md                       # Project instructions
