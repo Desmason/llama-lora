@@ -58,7 +58,7 @@ This will:
 ## 🔍 Evaluate the Model
 
 ```bash
-python lora_finetuning_evaluation.py
+python eval.py
 ```
 
 This compares:
